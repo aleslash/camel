@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testes>
+<teste>
+	<campo1>1</campo1>
+	<campo2>22</campo2>
+	<campo3>333</campo3>
+	<campo4>azul</campo4>
+</teste>
+<teste>
+	<campo1>11</campo1>
+	<campo2>2222</campo2>
+	<campo3>333333</campo3>
+	<campo4>amarelo</campo4>
+</teste>
+</testes>
